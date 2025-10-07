@@ -1,0 +1,15 @@
+p{
+    color:rgba(0, 81, 255, 0.596); 
+    background-color: antiquewhite;
+    font-family: cursive;
+}
+
+h1{
+    color: darkslategrey;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30pt;
+}
+
+body{
+    background-color: rgba(220, 20, 60, 0.171);
+}
